@@ -11,7 +11,6 @@
   <br>
 </p>
 <h2 align="center">Installation</h2>
-<h3 align="center">Currently, the package is still pretty new, and we have to yet make the PyPI(pip) package, so please download the package over this repository. Note! No guarantee that the non-production ready versions will work on your system!</h3>
 <h3 align="center">Install (PyPi Release)</h3>
 <h4 align="center">Currently in the process of being made! <a href="https://github.com/FrostbyteSpace/openhiven.py/milestone/1">Road to v.0.1</a></h4>
 <h3 align="center"><code>pip install openhiven.py</code></h3>
